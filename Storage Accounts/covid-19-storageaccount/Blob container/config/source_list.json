@@ -1,0 +1,37 @@
+[
+    {
+        "sourceBaseURL":"raw.githubusercontent.com/",
+        "sourceRealativeURL":"cloudboxacademy/covid19/main/ecdc_data/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":"raw.githubusercontent.com/",
+        "sourceRealativeURL":"cloudboxacademy/covid19/main/ecdc_data/hospital_admissions.csv",
+        "sinkFileName":"hospitalizations.csv"
+    },
+    {
+        "sourceBaseURL":"raw.githubusercontent.com/",
+        "sourceRealativeURL":"cloudboxacademy/covid19/main/ecdc_data/country_response.csv",
+        "sinkFileName":"country_response.csv"
+    },
+    {
+        "sourceBaseURL":"raw.githubusercontent.com/",
+        "sourceRealativeURL":"cloudboxacademy/covid19/main/ecdc_data/testing.csv",
+        "sinkFileName":"testing.csv"
+    }
+    
+]
+
+/*
+https://raw.githubusercontent.com/cloudboxacademy/covid19/main/ecdc_data/cases_deaths.csv
+
+https://github.com/cloudboxacademy/covid19/blob/main/ecdc_data/cases_deaths.csv
+
+cloudboxacademy/covid19/ecdc_data/cases_deaths.csv
+
+
+https://github.com/cloudboxacademy/covid19/blob/main/ecdc_data/cases_deaths.csv
+
+https://raw.githubusercontent.com/cloudboxacademy/covid19/main/ecdc_data/cases_deaths.csv
+
+*/
