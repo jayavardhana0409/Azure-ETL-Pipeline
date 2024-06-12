@@ -1,7 +1,3 @@
-Certainly! Below is a revised version of your README.md for your GitHub repository, formatted for clarity and completeness:
-
----
-
 # Azure ETL Pipeline for COVID-19 Data
 
 ## Overview
