@@ -47,8 +47,8 @@ This project demonstrates an end-to-end ETL pipeline using Azure services to fet
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/azure-etl-pipeline-covid19.git
-cd azure-etl-pipeline-covid19
+git clone https://github.com/jayavardhana0409/Azure-ETL-Pipeline.git
+cd Azure-ETL-Pipeline
 ```
 
 ### 2. Set Up Azure Resources
