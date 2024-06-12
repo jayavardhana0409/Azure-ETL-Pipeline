@@ -6,7 +6,9 @@ This project demonstrates an end-to-end ETL pipeline using Azure services to fet
 
 ## Architecture
 
-![Pipeline Architecture](path_to_your_architecture_diagram.png)
+![Pipeline Architecture](images/ETL_pipeline_cases.png)
+
+![Pipeline Architecture](images/ETL_pipeline_hospital.png)
 
 ## Features
 
